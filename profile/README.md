@@ -10,7 +10,7 @@
 
 ### Our Mission 🎯
 
-- **Create**: Building innovative web and game solutions that solve real-world problems.
+- **Create**: Building simple web applications that help us in our daily lives.
 - **Collaborate**: Fostering a community where teamwork and creativity thrive.
 - **Inspire**: Pushing the boundaries of technology and design to inspire others.
 
